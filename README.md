@@ -5,5 +5,5 @@ This project uses a YOLOv8 Nano model trained on a dataset of 25000+ images to d
 - **Training Epochs:**10
   
 - ## sample Detection
-- ![sample](datectio_sample.jpg)
+- ![sample detection](car_image.jpg)
 
